@@ -22,6 +22,7 @@ public class Email {
 				System.out.println("4. Comprueba si la cadena acaba en educa.jcyl.es");
 				System.out.println("0. Salir");
 				System.out.println("Seleccione una opción");
+				System.out.println("Modificación - ejercicio 6");
 				respuesta=sc.nextInt();
 				
 			switch(respuesta) {
